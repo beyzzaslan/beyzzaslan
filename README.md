@@ -24,8 +24,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
   <a href="mailto:beyzaaslan311@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
