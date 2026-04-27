@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:79c0ff&height=200&section=header&text=Beyzanur%20Aslan&fontSize=40&fontColor=ffffff" />
+</p>
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Beyzanur+Aslan;Future+Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=beyzzaslan&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Beyzanur Aslan</h1>
 
 <h3 align="center">Computer Engineering Student | Future Full Stack Developer</h3>
