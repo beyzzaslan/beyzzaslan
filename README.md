@@ -13,6 +13,17 @@
 - 🌱 Passionate about learning and improving myself
 - 🎯 My goal is to build real-world projects and become a strong software developer
 
+
+---
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
