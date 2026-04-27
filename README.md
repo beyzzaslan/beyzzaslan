@@ -12,7 +12,7 @@
 - 🌐 Interested in **Frontend Development (HTML, CSS, JavaScript, React)**
 - ⚙️ Interested in **Backend Development (Java, C#, Spring Boot)**
 - 🌱 Passionate about learning and improving myself
-- 🎯 My goal is to build real-world projects and become a strong software developer
+- 🎯 My goal is to build real-world projects and become a software developer
 
 
 ---
