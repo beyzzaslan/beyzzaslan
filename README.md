@@ -21,11 +21,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Beyzanur%20Aslan-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:beyzaaslan311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-beyzaaslan311%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
 
