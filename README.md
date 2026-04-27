@@ -19,7 +19,7 @@
 
 ## 🔗 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
