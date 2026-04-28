@@ -14,7 +14,6 @@
 - 🎯 Interested in building real-world software projects
 
 ---
-
 ## 🔗 Connect with me
 
 <p align="center">
@@ -23,14 +22,13 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:beyzaaslan311@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
-
 ---
 
 ## 🛠 Tech Stack
