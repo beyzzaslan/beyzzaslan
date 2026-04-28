@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beyzanur Aslan</h1>
 
-<h3 align="center">Computer Engineering Student | Future Full Stack Developer</h3>
+<h3 align="center">Computer Engineering Student | Full Stack Developer</h3>
 
 ---
 
