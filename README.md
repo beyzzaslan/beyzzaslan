@@ -1,28 +1,28 @@
-
 <h1 align="center">Hi 👋, I'm Beyzanur Aslan</h1>
 
-<h3 align="center">Computer Engineering Student | Full Stack Developer</h3>
+<h3 align="center">Computer Engineering Student | Future Full Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a Computer Engineering student
-- 💻 I'm working to become a **Full Stack Developer**
-- 🌐 Interested in **Frontend Development (HTML, CSS, JavaScript, React)**
-- ⚙️ Interested in **Backend Development (Java, C#, Spring Boot)**
-- 🌱 Passionate about learning and improving myself
-- 🎯 My goal is to build real-world projects and become a software developer
-
+- 🎓 Computer Engineering student focused on software development  
+- 💻 Working towards becoming a **Full Stack Developer**  
+- 🌐 Building modern interfaces using **HTML, CSS, JavaScript and React**  
+- ⚙️ Developing backend skills with **Java, C# and Spring Boot**  
+- 🌱 Continuously learning new technologies  
+- 🎯 Interested in building practical and real-world software projects  
 
 ---
 
 ## 🔗 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:beyzaaslan311@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
@@ -42,8 +42,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=beyzzaslan&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzzaslan&layout=compact&theme=default" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=beyzzaslan&show_icons=true&theme=github" />
+
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzzaslan&layout=compact&theme=github" />
 </p>
 
 ---
@@ -51,5 +54,6 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=beyzzaslan&theme=default" />
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=beyzzaslan&theme=github-light" />
 </p>
