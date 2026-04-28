@@ -6,26 +6,23 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student focused on software development  
-- 💻 Working towards becoming a **Full Stack Developer**  
-- 🌐 Building modern interfaces using **HTML, CSS, JavaScript and React**  
-- ⚙️ Developing backend skills with **Java, C# and Spring Boot**  
-- 🌱 Continuously learning new technologies  
-- 🎯 Interested in building practical and real-world software projects  
+- 🎓 Computer Engineering student focused on software development
+- 💻 Working towards becoming a **Full Stack Developer**
+- 🌐 Building frontend skills with **HTML, CSS, JavaScript and React**
+- ⚙️ Improving backend skills with **Java, C# and Spring Boot**
+- 🌱 Always eager to learn and improve
+- 🎯 Interested in building real-world software projects
 
 ---
 
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <a href="https://www.linkedin.com/in/beyzanuraslan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Beyzanur%20Aslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="mailto:beyzaaslan311@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Gmail-beyzaaslan311%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -42,11 +39,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=beyzzaslan&show_icons=true&theme=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=beyzzaslan&show_icons=true&theme=default" />
+</p>
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzzaslan&layout=compact&theme=github" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzzaslan&layout=compact&theme=default" />
 </p>
 
 ---
@@ -54,6 +51,5 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=beyzzaslan&theme=github-light" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=beyzzaslan&theme=default" />
 </p>
