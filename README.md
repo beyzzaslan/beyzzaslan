@@ -18,12 +18,17 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/beyzanuraslan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Beyzanur%20Aslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:beyzaaslan311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-beyzaaslan311%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:beyzaaslan311@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
 </p>
 
 ---
