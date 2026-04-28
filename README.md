@@ -17,17 +17,12 @@
 ## 🔗 Connect with me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:beyzaaslan311@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/beyzanuraslan/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:beyzaaslan311@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 </p>
 ---
 
