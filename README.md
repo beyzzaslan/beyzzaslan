@@ -35,17 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=beyzzaslan&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzzaslan&layout=compact&theme=default" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
