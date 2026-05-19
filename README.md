@@ -29,29 +29,29 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,cs,c" />
 </p>
 
-### 🗄️ Database
+###  Database
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### 🧪 API & Testing
+###  API & Testing
 <p>
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
-### 🧰 Tools
+###  Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
 </p>
 
 ---
