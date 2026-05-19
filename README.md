@@ -27,14 +27,34 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,cs,c,postgres,postman,docker,git,github" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,c" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+### 🧪 API & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
 ---
-
 
 ## 🔥 GitHub Streak
 
