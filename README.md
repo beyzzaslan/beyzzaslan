@@ -10,7 +10,6 @@
 - 💻 Working towards becoming a **Full Stack Developer**
 - 🌐 Building frontend skills with **HTML, CSS, JavaScript and React**
 - ⚙️ Improving backend skills with **Java, C# and Spring Boot**
-- 🌱 Always eager to learn and improve
 - 🎯 Interested in building real-world software projects
 
 ---
