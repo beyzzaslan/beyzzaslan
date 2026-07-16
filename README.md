@@ -55,8 +55,4 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=beyzzaslan&theme=default" />
-</p>
