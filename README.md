@@ -8,11 +8,12 @@
 
 - 🎓 Computer Engineering student focused on software development
 - 💻 Working towards becoming a **Full Stack Developer**
-- 🌐 Building frontend skills with **HTML, CSS, JavaScript and React**
+- 🌐 Building frontend skills with **HTML, CSS, JavaScript, React and Tailwind CSS**
 - ⚙️ Improving backend skills with **Java, C# and Spring Boot**
 - 🎯 Interested in building real-world software projects
 
 ---
+
 ## 🔗 Connect with me
 
 <p align="center">
@@ -28,31 +29,29 @@
 
 ## 🛠️ Tech Stack
 
-###  Frontend
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-###  Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,cs,c" />
 </p>
 
-###  Database
+### Database
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-###  API & Testing
+### API & Testing
 <p>
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
-###  Tools & Deployment
+### Tools & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
 </p>
 
 ---
-
-
